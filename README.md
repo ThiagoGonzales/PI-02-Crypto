@@ -1,5 +1,5 @@
 
-# PI 02 Cypto
+# PI 02 Crypto
 
 ![imagen](https://www.imf.org/-/media/Images/IMF/Blog/Articles/Hero/2023/June/BLOG-2099x600-FAD-Crypto-taxation-Da-kuk-iStock-by-Getty-Images-iStock-1304093999.ashx)
 
